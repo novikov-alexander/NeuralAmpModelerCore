@@ -1,5 +1,5 @@
 # NeuralAmpModelerCore
-Core DSP library for NAM plugins.
+Core DSP library for NAM plugins. CUDA implementation
 
 For an example how to use, see [NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin).
 
